@@ -48,9 +48,23 @@
   border-right-width: 4px;
 }
 
+/* .header {
+    background-color: #99e5e5;
+    background-image: url('ventus_splash_top.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+} */
+
 .splash {
-  background-color: #61dafb;
-  color: white;
+  /* background-color: #61dafb; */
+  background-color: #99e5e5;
+  color: black;
+  background-image: url('ventus_splash_top.png'), url('ventus_splash_bottom.png');
+  background-repeat: no-repeat, no-repeat;
+  /* background-attachment: fixed; */
+  background-position: center top, center bottom;
+  padding-top: 250px;
 }
 
 .splash * {
@@ -58,7 +72,8 @@
 }
 
 .splash {
-  height: 50vw;
+  height: 40vw;
+  padding-left: 50px;
 }
 
 .splash h1 {
@@ -76,4 +91,11 @@
 
 .login {
   padding-left: 50px;
+}
+
+.login-button {
+  margin-top: 10px;
+  padding: 5px;
+  display: block;
+  border-radius: 8px;
 }
