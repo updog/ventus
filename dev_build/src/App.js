@@ -2,30 +2,7 @@ import React, { Component } from 'react';
 import ReactModalLogin from 'react-modal-login';
 import placeholder from './placeholder.gif';
 import './App.css';
-
-class Header extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={placeholder} className="App-logo" alt="logo" />
-          <p>
-            Welcome to Ventus! Currently under construction.
-          </p>
-          <a
-            className="App-link"
-            href="https://github.com/updog/ventus"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            See our Github!
-          </a>
-          <div className="arrow"></div>
-        </header>
-      </div>
-    );
-  }
-}
+import 'typeface-varela-round';
 
 class App extends Component {
   constructor(props) {
@@ -153,8 +130,6 @@ class App extends Component {
                 }],
               }}
             />
-
-
 
           </div>
         </div>
