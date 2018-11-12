@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ventus/precache-manifest.f8d637e428a5b97985fa386c5ddb5373.js"
+  "/ventus/precache-manifest.07694f41b66e5b82362d20ab9426bccb.js"
 );
 
 workbox.clientsClaim();
