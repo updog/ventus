@@ -59,13 +59,25 @@ body {
   padding-bottom: 25px;
 }
 
+.chat {
+  background-color: #a1a1a1;
+  height: 100vh;
+}
+
+.chat * {
+  margin: 0;
+}
+
 .login {
   padding-left: 50px;
 }
 
-.login-button {
-  margin-top: 10px;
-  padding: 5px;
+.login button {
+  margin: 50px;
+  padding: 25px;
   display: block;
   border-radius: 8px;
+  background-color: green;
+  font-size: 3em;
+  color: white;
 }
