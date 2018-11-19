@@ -23,15 +23,25 @@ class UsernameForm extends Component {
     return (
       <div>
         <div>
-          <h2>What is your username?</h2>
+          <h2>Choose a username</h2>
           <form onSubmit={this.onSubmit}>
             <input
               type="text"
-              placeholder="Your full name"
+              placeholder="Your username"
               onChange={this.onChange}
             />
             <input type="submit" />
           </form>
+          <h2>Choose a password</h2>
+          <form onSubmit={this.onSubmit}>
+            <input
+              type="text"
+              placeholder="Your password"
+              onChange={this.onChange}
+            />
+            <input type="submit" />
+          </form>
+
         </div>
       </div>
     )
