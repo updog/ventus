@@ -1,15 +1,13 @@
 {
-  "main.css": "/ventus/static/css/main.7a7e13df.chunk.css",
-  "main.js": "/ventus/static/js/main.a159b122.chunk.js",
-  "main.js.map": "/ventus/static/js/main.a159b122.chunk.js.map",
-  "static/js/1.35b3df3b.chunk.js": "/ventus/static/js/1.35b3df3b.chunk.js",
-  "static/js/1.35b3df3b.chunk.js.map": "/ventus/static/js/1.35b3df3b.chunk.js.map",
+  "main.css": "/ventus/static/css/main.4236cb67.chunk.css",
+  "main.js": "/ventus/static/js/main.e0b98f9a.chunk.js",
+  "main.js.map": "/ventus/static/js/main.e0b98f9a.chunk.js.map",
+  "static/js/1.890813d2.chunk.js": "/ventus/static/js/1.890813d2.chunk.js",
+  "static/js/1.890813d2.chunk.js.map": "/ventus/static/js/1.890813d2.chunk.js.map",
   "runtime~main.js": "/ventus/static/js/runtime~main.eb24d885.js",
   "runtime~main.js.map": "/ventus/static/js/runtime~main.eb24d885.js.map",
-  "static/css/main.7a7e13df.chunk.css.map": "/ventus/static/css/main.7a7e13df.chunk.css.map",
-  "static/media/placeholder.gif": "/ventus/static/media/placeholder.74c24282.gif",
-  "static/media/App.css": "/ventus/static/media/ventus_splash_bottom.583ff3c3.png",
+  "static/css/main.4236cb67.chunk.css.map": "/ventus/static/css/main.4236cb67.chunk.css.map",
   "index.html": "/ventus/index.html",
-  "precache-manifest.07694f41b66e5b82362d20ab9426bccb.js": "/ventus/precache-manifest.07694f41b66e5b82362d20ab9426bccb.js",
+  "precache-manifest.630da496d1d4d979517cac7f9c1fde12.js": "/ventus/precache-manifest.630da496d1d4d979517cac7f9c1fde12.js",
   "service-worker.js": "/ventus/service-worker.js"
 }
